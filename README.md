@@ -1,43 +1,20 @@
-# Hi, I'm Dan O'Halloran 👋
+# Dan O'Halloran
 
-Staff Cloud / Platform Engineer focused on **AI platform infrastructure**: running LLM agents, model endpoints, and the cloud platforms underneath them reliably, securely, and cheaply.
+I'm a staff cloud and platform engineer in Denver. Most of my work is the infrastructure under AI systems: running LLM agents and model endpoints on AWS and Kubernetes so they stay reliable, secure and affordable.
 
-### What I work on
-- **LLM agent platforms:** MCP servers and tool integrations, agent harnesses, evaluation and guardrails
-- **AI on AWS:** Bedrock, SageMaker, serverless (Lambda, API Gateway, Secrets Manager)
-- **Platform engineering:** Kubernetes, Helm, Terraform, Docker, GitOps, CI/CD (GitHub Actions, Jenkins)
-- **Data:** Snowflake integrations and pipelines
-- **Homelab:** k3s cluster managed with GitOps, my sandbox for trying platform ideas
+## What I work on
 
-### Featured projects
-| Project | What it shows |
-|---|---|
-| [unifi-route53-ddns-serverless](https://github.com/ohallord/unifi-route53-ddns-serverless) | Serverless AWS design, secure secrets handling, OSS hygiene |
+Day to day I build platforms on AWS with Terraform, Kubernetes and Helm, and I write the glue in Python and Bash. Lately that means MCP servers and the tooling that lets coding agents work safely against real systems, plus Bedrock and serverless pieces like Lambda, API Gateway and Secrets Manager.
 
-More projects coming soon.
+At home I run a small k3s cluster managed with GitOps. It's where I try ideas before I trust them anywhere else.
 
-### Toolbox
-Python · Bash · Java · Groovy · Terraform · Kubernetes · Helm · Docker · GitHub Actions · Jenkins · AWS · Snowflake · MCP
+## Projects
 
-### Certifications
-AWS certifications (previously earned) · currently studying for AWS Certified AI Practitioner
+- [heimdall](https://github.com/ohallord/heimdall) is a self-hosted monitoring and security console for servers, Docker and Kubernetes. Agents only connect outbound, and it handles vulnerability scanning, log-based threat detection, OpenTelemetry APM and alerting.
+- [unifi-route53-ddns-serverless](https://github.com/ohallord/unifi-route53-ddns-serverless) is dynamic DNS for UniFi gateways on Route 53. I built it because I didn't want to pay for a DDNS service for a domain I already host on AWS.
 
-📫 [LinkedIn](https://www.linkedin.com/in/drohalloran/)
+## Tools I use most
 
+Python, Bash, Terraform, Kubernetes, Helm, Docker, AWS, GitHub Actions, GitLab CI and MCP.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+You can find me on [LinkedIn](https://www.linkedin.com/in/drohalloran/).
