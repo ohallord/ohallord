@@ -1,6 +1,6 @@
 # Dan O'Halloran
 
-I'm a staff cloud and platform engineer in Denver. Most of my work is the infrastructure under AI systems: running LLM agents and model endpoints on AWS and Kubernetes so they stay reliable, secure and affordable.
+I'm a staff cloud and platform engineer in Denver. Most of my work is the infrastructure under AI systems: running LLM agents and model endpoints on AWS and Kubernetes so they stay up and stay locked down without running up the bill.
 
 ## What I work on
 
