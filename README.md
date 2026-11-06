@@ -11,6 +11,7 @@ At home I run a small k3s cluster managed with GitOps. It's where I try ideas be
 ## Projects
 
 - [heimdall](https://github.com/ohallord/heimdall) is a self-hosted monitoring and security console for servers, Docker and Kubernetes. Agents only connect outbound, and it handles vulnerability scanning, log-based threat detection, OpenTelemetry APM and alerting.
+- [media-manager](https://github.com/ohallord/media-manager) is a self-hosted web portal for a movie and TV library, with inventory search, duplicate ranking, a verified file mover, Radarr/Sonarr integration and GPU H.265 conversion.
 - [unifi-route53-ddns-serverless](https://github.com/ohallord/unifi-route53-ddns-serverless) is dynamic DNS for UniFi gateways on Route 53. I built it because I didn't want to pay for a DDNS service for a domain I already host on AWS.
 
 ## Tools I use most
